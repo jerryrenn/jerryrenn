@@ -1,5 +1,8 @@
 ### Hi there! I'm Jerry Renn👋 
 
+<h3>I am a full-stack software engineer with a background in Physical Therapy. I am a goal-oriented individual with a drive for continuous learning, collaboration, and efficiency. I aim to leverage my software development expertise along with skills from my previous profession to develop impactful technologies, foster meaningful relationships, and deliver value to others.</h3>
+
+<h3>Interested in my background or just want to chat? Feel free to shoot me a message and let’s connect!</h3>
 ### Technologies & Tools
 
 #### Languages
