@@ -8,6 +8,8 @@
 [![GitHub](https://img.shields.io/badge/-jerryrenn-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jerryrenn)
 [![Gmail](https://img.shields.io/badge/-jerryrenn1998-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jerryrenn1998@gmail.com)
 
+<p>📍 Based in Los Angeles, CA</p>
+
 ### Technologies & Tools
 
 #### Languages
