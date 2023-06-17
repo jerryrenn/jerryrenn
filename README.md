@@ -3,6 +3,11 @@
 <p>I am a full-stack software engineer with a background in Physical Therapy. I am a goal-oriented individual with a drive for continuous learning, collaboration, and efficiency. I aim to leverage my software development expertise along with skills from my previous profession to develop impactful technologies, foster meaningful relationships, and deliver value to others.</p>
 
 <p>Interested in my background or just want to chat? Feel free to shoot me a message and let’s connect!</p>
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jerryrenn)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/jerryrenn)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jerryrenn1998@gmail.com)
+
 ### Technologies & Tools
 
 #### Languages
